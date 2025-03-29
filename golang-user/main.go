@@ -8,7 +8,7 @@ func main() {
 	r := gin.Default()
 
 	users := map[string]gin.H{
-		"1": {"id": 1, "name": "Alice"},
+		"1": {"id": 1, "name": "alex"},
 		"2": {"id": 2, "name": "Bob"},
 	}
 
